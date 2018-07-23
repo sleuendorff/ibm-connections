@@ -9,7 +9,7 @@
     {
       "payload": {
         "include-files": [
-          "helloWorld/helloWorld.user.js"
+          "helloWorld.user.js"
         ],
         "include-repo":{
           "name": "ibm-connections"
