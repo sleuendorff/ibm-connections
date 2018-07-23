@@ -1,26 +1,26 @@
 {
-  name: "Homepage Customization",
-  title: "Introductory Customizer App",
-  description: "Inserts text into IBM Connections Homepage",
-  services: [
+  "name": "Homepage Customization",
+  "title": "Introductory Customizer App",
+  "description": "Inserts text into IBM Connections Homepage",
+  "services": [
     "Customizer"
   ],
-  extensions: [
+  "extensions": [
     {
-      payload: {
-        include-files: [
+      "payload": {
+        "include-files": [
           "helloWorld/helloWorld.user.js"
         ],
-        include-repo: {
-          name: "ibm-connections"
+        "include-repo":{
+          "name": "ibm-connections"
         },
-        cache-headers: {
-          cache-control: "max-age=0"
+        "cache-headers": {
+          "cache-control": "max-age=0"
         }
       },
-      name: "Pokeshot Hello World Extension",
-      type: "com.ibm.customizer.ui",
-      path: "homepage"
+      "name": "Hello World Extension",
+      "type": "com.ibm.customizer.ui",
+      "path": "homepage"
     }
   ]
 }
