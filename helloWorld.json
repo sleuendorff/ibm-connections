@@ -1,7 +1,7 @@
 {
-  "name": "Homepage Customization",
-  "title": "Introductory Customizer App",
-  "description": "Inserts text into IBM Connections Homepage",
+  "name": "Pokeshot Autotranslate",
+  "title": "Pokeshot Autotranslate App",
+  "description": "Adds Pokeshot Autotranslate support to IBM Connections Homepage",
   "services": [
     "Customizer"
   ],
@@ -18,9 +18,9 @@
           "cache-control": "max-age=0"
         }
       },
-      "name": "Hello World Extension",
+      "name": "Pokeshot Autotranslate Extension",
       "type": "com.ibm.customizer.ui",
-      "path": "homepage"
+      "path": "global"
     }
   ]
 }
