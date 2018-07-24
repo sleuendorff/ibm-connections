@@ -12,7 +12,7 @@
           "helloWorld.user.js"
         ],
         "include-repo":{
-          "name": "ibm-connections"
+          "name": "ibm-connections-translation"
         },
         "cache-headers": {
           "cache-control": "max-age=0"
