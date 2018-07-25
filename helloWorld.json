@@ -18,9 +18,11 @@
           "cache-control": "max-age=0"
         }
       },
+      "id": "22cbc67a-fdbd-4e33-b3cb-2605216ac865",
       "name": "Pokeshot Autotranslate Extension",
       "type": "com.ibm.customizer.ui",
       "path": "global"
     }
-  ]
+  ],
+  "id": "22cbc67a-fdbd-4e33-b3cb-2605216ac865"
 }
