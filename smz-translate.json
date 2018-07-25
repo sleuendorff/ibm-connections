@@ -1,0 +1,32 @@
+{
+  "name": "Pokeshot Autotranslate",
+  "title": "Pokeshot Autotranslate App",
+  "description": "Adds Pokeshot Autotranslate support to IBM Connections Homepage",
+  "services": [
+    "Customizer"
+  ],
+  "extensions": [
+    {
+      "payload": {
+        "include-files": [
+          "jquery-3.3.1.slim.min.js",
+          "mock_soyhook.js",
+          "smz-translation-selectors.js",
+          "jquery.smz-translate.js",
+          "jquery.smz-translate-auto.js"
+        ],
+        "include-repo":{
+          "name": "ibm-connections-translation"
+        },
+        "cache-headers": {
+          "cache-control": "max-age=0"
+        }
+      },
+      "id": "22cbc67a-fdbd-4e33-b3cb-2605216ac865",
+      "name": "Pokeshot Autotranslate Extension",
+      "type": "com.ibm.customizer.ui",
+      "path": "global"
+    }
+  ],
+  "id": "22cbc67a-fdbd-4e33-b3cb-2605216ac865"
+}
