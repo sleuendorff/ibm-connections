@@ -1,1 +1,1 @@
-# ibm-connections
+# ibm-connections readme
