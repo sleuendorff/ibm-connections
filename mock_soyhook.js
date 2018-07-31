@@ -25,7 +25,7 @@ SMZ.multidoc = {
 			dynamicSelectors: [null]
 		},
 		
-		checkboxLabel: 'Translate to:' + 'en',                
+		checkboxLabel: 'Translate to: ' + 'en',                
 		checkboxLocation: '.tabNavInner'
 	}
 };
