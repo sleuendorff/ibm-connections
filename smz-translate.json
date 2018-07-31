@@ -9,11 +9,12 @@
     {
       "payload": {
         "include-files": [
-          "jquery-3.3.1.slim.min.js",
+          "jquery-3.3.1.min.js",
           "mock_soyhook.js",
           "smz-translation-selectors.js",
           "jquery.smz-translate.js",
-          "jquery.smz-translate-auto.js"
+          "jquery.smz-translate-auto.js",
+          "smz-translate.css"
         ],
         "include-repo":{
           "name": "ibm-connections-translation"
