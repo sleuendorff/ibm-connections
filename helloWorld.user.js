@@ -18,7 +18,8 @@
 // ==/UserScript==
 
 if(typeof(dojo) != "undefined") {
-	require(["dojo/domReady!helloWorld.user"], function(){
+	
+		   require(["dojo/domReady"], function(){
         try {
             // utility function to let us wait for a specific element of the page to load...
             var waitFor = function(callback, elXpath, elXpathRoot, maxInter, waitTime) {

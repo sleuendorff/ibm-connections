@@ -1,3 +1,4 @@
+var $j = jQuery.noConflict();
 
 if (!window.SMZ) {window.SMZ = {}; }
 SMZ.multidoc = {
