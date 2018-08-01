@@ -7,14 +7,13 @@
 }
 
 #smz-toggle-translation-wrapper{
-    position: absolute;
-    top: 5px;
-    right: 100px;
+    position: fixed;
+    top: 62px;
+    right: 50px;
     color: #000;
 }
 .tabNavFixed #smz-toggle-translation-wrapper{
-	top: 8px;
-    right: 45px;
+	top: 22px;
 }
 #smz-toggle-translation-wrapper label{
     cursor: pointer;
