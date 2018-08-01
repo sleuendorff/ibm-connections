@@ -8,12 +8,13 @@
 
 #smz-toggle-translation-wrapper{
     position: absolute;
-    top: 4px;
-    right: 30px;
-    color: #fff;
+    top: 5px;
+    right: 100px;
+    color: #000;
 }
 .tabNavFixed #smz-toggle-translation-wrapper{
-	margin: 4px 15px;
+	top: 8px;
+    right: 45px;
 }
 #smz-toggle-translation-wrapper label{
     cursor: pointer;

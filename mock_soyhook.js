@@ -26,6 +26,6 @@ SMZ.multidoc = {
 		},
 		
 		checkboxLabel: 'Translate to: ' + 'en',                
-		checkboxLocation: '.tabNavInner'
+		checkboxLocation: '#tabNavSearch'
 	}
 };
