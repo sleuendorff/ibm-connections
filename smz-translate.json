@@ -1,7 +1,7 @@
 {
   "name": "Pokeshot Autotranslate",
   "title": "Pokeshot Autotranslate App",
-  "description": "Adds Pokeshot Autotranslate support to IBM Connections Homepage",
+  "description": "Adds Pokeshot Autotranslate support to IBM Connections Homepage POC",
   "services": [
     "Customizer"
   ],
